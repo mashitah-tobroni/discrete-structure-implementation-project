@@ -1,5 +1,5 @@
 # discrete-structure-implementation-project
-This is my group project for Data Structure class.
+This is my group project for Discrete Structure class.
 
 ## Discrete Structure Project
 
